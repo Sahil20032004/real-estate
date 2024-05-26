@@ -4,7 +4,7 @@
 Homyz is a cutting-edge real estate web application developed using the powerful MERN stack (MongoDB, Express.js, React, Node.js). It serves as a comprehensive platform for users to seamlessly search, list, book, and explore a diverse range of properties available for sale or rent. The application is designed with a user-centric approach, offering an intuitive interface that simplifies property browsing and transactions.
 
 
-![Screenshot 1](./client/public/Screenshot1.png)
+
 
 ## Features
 
@@ -24,9 +24,7 @@ Homyz is a cutting-edge real estate web application developed using the powerful
 
 - *Property Details and Descriptions*: Each property listing should have comprehensive details and descriptions, including property features, room dimensions, amenities, nearby attractions, and any unique selling points. High-quality images and virtual tours can provide a more immersive experience for users.
 
-![Screenshot 1](./client/public/Screenshot2.png)
-![Screenshot 1](./client/public/Screenshot3.png)
-![Screenshot 1](./client/public/Screenshot4.png)
+
 
 
 ## Installation
@@ -34,7 +32,7 @@ Homyz is a cutting-edge real estate web application developed using the powerful
 1. Clone the repository:
 
    bash
-   git clone https://github.com/kajalpandey25/real-estate-booking.git
+   git clone https://github.com/Sahil20032004/real-estate.git
    
 
 2. Change into the project directory:
@@ -66,36 +64,4 @@ Homyz is a cutting-edge real estate web application developed using the powerful
    bash
    npm run dev
 
-## Usage
 
-- Explore property listings, customize your search, and create a user profile to list properties or access additional features.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute to the project:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-
-   bash
-   git checkout -b feature/your-feature-name
-   
-
-3. Make your changes and commit them:
-
-   bash
-   git commit -m "Your commit message here"
-   
-
-4. Push your changes to your fork:
-
-   bash
-   git push origin feature/your-feature-name
-   
-
-5. Create a pull request to the main repository.
-
-## Contact
-
-1. [GITHUB](https://github.com/kajalpandey25)
-2. [LINKEDIN](https://www.linkedin.com/in//kajal-pandey-08b312260/)
